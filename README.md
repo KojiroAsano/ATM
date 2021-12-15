@@ -31,7 +31,7 @@
 
   
 ## Usage:
-  <p>If successfully installed and run on the Web browser, the banking site shows up. If you choose 'deposit' the background will be light green. If you choose 'cash back', the background turns red. (Generally, banks do not like use withdrawing lots of money.)</p>
+  <p>If successfully installed and run on the Web browser, the banking site shows up. If you choose 'deposit' the background will be light green. If you choose 'cash back', the background turns red. (Generally, banks do not like users withdrawing lots of money.)</p>
   
 ## Support:
   If any question, message me via **[my twitter](https://twitter.com/Kojiro38895598)**.
