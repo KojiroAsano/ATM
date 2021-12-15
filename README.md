@@ -1,7 +1,7 @@
 # ATM-Week15-
 <div>
-<img src="atm1.png" width='500'/>
-<img src="atm2.png" width='500'/>
+<img src="mta1.png" width='500'/>
+<img src="mta2.png" width='500'/>
 </div>
 
 ## Description:
