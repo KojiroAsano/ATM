@@ -1,0 +1,39 @@
+
+form{
+  background-color: azure;
+  border-radius: 1%;
+  width: 500px;
+  display: block;
+  align-content: center;
+
+}
+.container{
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+}
+#root{
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+}
+
+body{
+  background-image: url('pexels-david-mcbee-730547.jpg');
+  background-size: 100%;
+  font-size: 30px;
+}
+select{
+  font-size: 60px;
+}
+
+h1{
+  background-color:crimson;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+}
+
