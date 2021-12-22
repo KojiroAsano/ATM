@@ -1,4 +1,4 @@
-# ATM-Week15-
+# ATM
 <div>
 <img src="mta1.png" width='500'/>
 <img src="mta2.png" width='500'/>
@@ -41,5 +41,5 @@
   I might add priority, or due date.
   
 ## License information: 
- The most of the program is coded and contrubuted by MIT. If you use the part of this code in your program and show it to public, please include the name of ***MIT***.
+***MIT***.
  The image courtesy ***David McBee*** and retrieved from the [site](https://www.pexels.com/photo/bitcoins-and-u-s-dollar-bills-730547/).
